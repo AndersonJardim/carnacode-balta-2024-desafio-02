@@ -9,6 +9,8 @@ O CarnaCode é um evento online e gratuito que acontece nos dias 10, 11, 12 e 13
 ## Sobre o Desafio
 Neste segundo desafio, desenvolvemos uma aplicação completa para calcular o IMC (Índice de Massa Muscular). Aprendemos conceitos como Razor e Blazor, bem como rotas, componentes e outros itens do ASP.NET.
 
+👉 https://github.com/AndersonJardim/carnacode-balta-2024-desafio-02.git
+
 ### Tecnologias Utilizadas
 * ASP.NET
 * Razor
